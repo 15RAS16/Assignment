@@ -149,6 +149,6 @@ for (int i = 0; i < len; i++) {
 }
   var highest = per.entries.reduce((a, b) => a.value > b.value ? a : b);
 
-print("Name: $highest.key");
-print("Percentage: $highest.value");
+print("Name: ${highest.key}");
+print("Percentage: ${highest.value}");
 }
