@@ -1,4 +1,2 @@
-// Time pass karo 
-void main(){
-  
-}
+// Time pass karo
+void main() {}
