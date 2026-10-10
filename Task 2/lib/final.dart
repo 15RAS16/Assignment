@@ -44,7 +44,7 @@ class chalenger extends trainer {
 
   @override
   void chalengerRecord() {
-    print("Total Matches : 65 \nWin : 65 \n Loss : 0 ");
+    print("Total Matches : 65 \nWin : 65 \nLoss : 0 ");
   }
 
   @override
