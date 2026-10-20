@@ -22,7 +22,7 @@ class _Login extends State<Login> {
       backgroundColor: Color.fromRGBO(48, 46, 43, 1.0),
       body: Center(
         child: Container(
-          height: 532,
+          height: 536,
           width: 300,
           decoration: BoxDecoration(color: Color(0xFF262421)),
           child: Column(
